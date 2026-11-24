@@ -1,2 +1,2 @@
 # codium_probe
-Quick and dirty trying
+Tentativi rapidi e approssimativi
